@@ -1,6 +1,6 @@
 # 🚀 CosmoShell: Your Gateway to the Command Universe
 
-Welcome to CosmoShell, where the command line meets the cosmos! 🌌
+### Welcome to CosmoShell, where the command line meets the cosmos! 🌌
 
 ## 🌟 Introduction
 
@@ -35,7 +35,7 @@ You are now ready to navigate the digital universe! Use the commands detailed in
 
 Remember, young astronaut: in the vast expanse of CosmoShell, every directory is a new solar system, every file is a star waiting to be discovered. Your journey through the command line cosmos begins now!
 
-🌌 Ad astra per codica! (To the stars through code!)
+### 🌌 Ad astra per codica! (To the stars through code!)
 
 
 # 🛸 Features
@@ -90,9 +90,9 @@ Remember, young astronaut: in the vast expanse of CosmoShell, every directory is
 <span style="color:#FF4500;"><strong>"Traverse the file system at warp speed</strong></span><span style="color:#1E90FF;"><strong>, bending space-time to your will!"</strong></span>
 
 
-#### Usage:
+#### Usage: `warp [DIR]`
 ```sh
-warp [DIR]
+
 warp test
 warp assignment
 warp ~
@@ -374,7 +374,8 @@ iMan grep
 ```
 - The iMan command fetches and displays man pages from http://man.he.net/. It accepts a command name as an argument and retrieves the corresponding man page.
 - For Example:
-    <img src="images/iman.png" alt="Prompt" height="400" widht="200">
+
+    - <img src="images/iman.png" alt="Prompt" height="400" widht="200">
 ---
 
 ## 17. 🌑 Finish 
