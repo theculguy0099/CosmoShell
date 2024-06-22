@@ -1,0 +1,6 @@
+🖥️ Interfacing with starship mainframe: cat
+🖥️ Interfacing with starship mainframe: echo
+hi
+🖥️ Interfacing with starship mainframe: cat
+🖥️ Interfacing with starship mainframe: wc
+6
