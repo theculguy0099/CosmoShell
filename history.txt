@@ -1,15 +1,15 @@
-cat > new.txt | sort >> kt.txt
-cat new.txt | sort > kt.txt
-sort kt.txt
-cat new.txt
-cat new.txt | sort > kt.txt | wc -l
-seek -d kt
-seek .
-seek -f sample.txt test
-seek -d test1 test
-seek -e -f iman.c
 seek -e iman.c .
 seek -e -d test
 seek -d -e test
 seek -e -d .
 seek -e test1 test
+warp test
+warp ..
+peek .
+proclore
+activities
+iMan sleep
+neonate -n 2
+ls
+git status
+echo CosmoShell!
