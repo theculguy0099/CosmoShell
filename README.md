@@ -51,7 +51,7 @@ Remember, young astronaut: in the vast expanse of CosmoShell, every directory is
 ---
 
 ## 2.  🌠  Background Processes (`&` terminated commands)
-<span style="color:#32CD32;"><strong>"Launch processes into the</strong></span> <span style="color:#9370DB;"><strong>cosmic background</strong></span><span style="color:#FFFFFF;"><strong>, where they orbit silently!"</strong></span>
+### <span style="color:#32CD32;"><strong>"Launch processes into the</strong></span> <span style="color:#9370DB;"><strong>cosmic background</strong></span><span style="color:#FFFFFF;"><strong>, where they orbit silently!"</strong></span>
 
 
 * Run processes in the background by appending an ampersand `&` at the end of the command.
@@ -87,7 +87,7 @@ Remember, young astronaut: in the vast expanse of CosmoShell, every directory is
 ---
 
 ## 3. 🌀 Warp Command
-<span style="color:#FF4500;"><strong>"Traverse the file system at warp speed</strong></span><span style="color:#1E90FF;"><strong>, bending space-time to your will!"</strong></span>
+### <span style="color:#FF4500;"><strong>"Traverse the file system at warp speed</strong></span><span style="color:#1E90FF;"><strong>, bending space-time to your will!"</strong></span>
 
 
 #### Usage: `warp [DIR]`
@@ -111,7 +111,7 @@ warp .. test
 ---
 
 ## 4. 🔭 Peek Command
-<span style="color:#00CED1;"><strong>"Gaze upon the celestial bodies</strong></span> <span style="color:#FFD700;"><strong>in your cosmic neighborhood!"</strong></span>
+### <span style="color:#00CED1;"><strong>"Gaze upon the celestial bodies</strong></span> <span style="color:#FFD700;"><strong>in your cosmic neighborhood!"</strong></span>
 
 
 ### Usage : `peek [OPTIONS]... [DIR]...`
@@ -137,7 +137,7 @@ peek -a -l directory
 ---
 
 ## 5. 📜 Pastevents Command
-<span style="color:#7CFC00;"><strong>"Access your commands history</strong></span> <span style="color:#DAA520;"><strong>like a cosmic ledger!"</strong></span>
+### <span style="color:#7CFC00;"><strong>"Access your commands history</strong></span> <span style="color:#DAA520;"><strong>like a cosmic ledger!"</strong></span>
 
 
 - Displays the previous 14 commands executed on the Terminal
@@ -163,7 +163,7 @@ pastevents execute 2
 ---
 
 ## 6. 🔍 Seek Command
-<span style="color:#00BFFF;"><strong>"Uncover hidden cosmic treasures</strong></span> <span style="color:#FF4500;"><strong>in the vast expanse of your file system!"</strong></span>
+### <span style="color:#00BFFF;"><strong>"Uncover hidden cosmic treasures</strong></span> <span style="color:#FF4500;"><strong>in the vast expanse of your file system!"</strong></span>
 
 ### Usage : `seek <flags> <search> <target_directory>`
 - Flags : 
@@ -188,7 +188,7 @@ pastevents execute 2
     ```
 ---
 ## 7. 🌍  System Commands
-<span style="color:#FFA500;"><strong>"Harness</strong></span> <span style="color:#9932CC;"><strong>the power</strong></span> <span style="color:#00FF00;"><strong>of your home planet's native commands!"</strong></span>
+### <span style="color:#FFA500;"><strong>"Harness</strong></span> <span style="color:#9932CC;"><strong>the power</strong></span> <span style="color:#00FF00;"><strong>of your home planet's native commands!"</strong></span>
 
 - The shell executes system commands both in the foreground and background. It captures and displays the process ID (PID) of background processes.
 - You can also run the routine commands of a Linux Terminal.
@@ -203,7 +203,7 @@ pastevents execute 2
     ```
 ---
 ## 8. 👁️ Proclore Command
-<span style="color:#1E90FF;"><strong>"Analyze the vital signs</strong></span> <span style="color:#FF6347;"><strong>of your cosmic with processes!"</strong></span>
+### <span style="color:#1E90FF;"><strong>"Analyze the vital signs</strong></span> <span style="color:#FF6347;"><strong>of your cosmic with processes!"</strong></span>
 ### Usage : `proclore [pid]`
 
 - Displays the pid, process status(R/R+/S/S+/Z),Process Group, memory consumption and executable path for the specified process
@@ -239,7 +239,7 @@ executable Path: /usr/bin/sleep
 ```
 ---
 ## 9. 📡 I/O Redirection
-<span style="color:#9400D3;"><strong>"Channel the cosmic energies</strong></span> <span style="color:#FF8C00;"><strong>of input and output across dimensions!"</strong></span>
+### <span style="color:#9400D3;"><strong>"Channel the cosmic energies</strong></span> <span style="color:#FF8C00;"><strong>of input and output across dimensions!"</strong></span>
 
 - `<` `[FILE]` can be used to redirect input from the specified `[FILE]` for a command
 
@@ -252,7 +252,7 @@ executable Path: /usr/bin/sleep
     ```
 ---
 ## 10. 🎛️ Piping
-<span style="color:#FF1493;"><strong>Create intricate networks</strong></span> <span style="color:#FFD700;"><strong>of data flow, like cosmic highways!</strong></span>
+### <span style="color:#FF1493;"><strong>Create intricate networks</strong></span> <span style="color:#FFD700;"><strong>of data flow, like cosmic highways!</strong></span>
 
 
 - `<command> | <command>` can be used to pipe the output of the command on the left side of the pipe to the command on the right side of the pipe
@@ -274,7 +274,7 @@ executable Path: /usr/bin/sleep
 
 ---
 ## 11. 🌠 Activities
-<span style="color:#1E90FF;"><strong>Monitor your fleet</strong></span> <span style="color:#FFA500;"><strong>of processes as they sail through the digital cosmos!</strong></span>
+### <span style="color:#1E90FF;"><strong>Monitor your fleet</strong></span> <span style="color:#FFA500;"><strong>of processes as they sail through the digital cosmos!</strong></span>
 
 
 - `activities` print a list of all the processes currently running that were spawned by shell in ***lexicographic*** order.
@@ -294,7 +294,7 @@ activities
 ```
 ---
 ## 12. 🔊 Signals
-<span style="color:#9932CC;"><strong>Communicate with your processes</strong></span> <span style="color:#32CD32;"><strong>using quantum entanglement!</strong></span>
+### <span style="color:#9932CC;"><strong>Communicate with your processes</strong></span> <span style="color:#32CD32;"><strong>using quantum entanglement!</strong></span>
 
 
 - Following 3 commands are direct keyboard input where Ctrl is Control key on keyboard (or it’s equivalent).
@@ -312,7 +312,7 @@ activities
     - Push the (if any) running foreground process to the background and change it’s state from “Running” to “Stopped”. It has no effect on the shell if no foreground process is running.
 ---
 ## 13. 📡 Ping:
-<span style="color:#4169E1;"><strong>Send cosmic signals</strong></span> <span style="color:#FF1493;"><strong>to distant processes in your galaxy!</strong></span>
+### <span style="color:#4169E1;"><strong>Send cosmic signals</strong></span> <span style="color:#FF1493;"><strong>to distant processes in your galaxy!</strong></span>
 
 
 ### Usage : `ping [pid] [signal_number]`
@@ -331,7 +331,7 @@ ping [PID] 18
 ---
 
 ## 14. 🚀 fg and bg:
-<span style="color:#8A2BE2;"><strong>Summon processes from the cosmic background</strong></span> <span style="color:#4682B4;"><strong>or send them on stealth missions!</strong></span>
+### <span style="color:#8A2BE2;"><strong>Summon processes from the cosmic background</strong></span> <span style="color:#4682B4;"><strong>or send them on stealth missions!</strong></span>
 
 
 - fg - Brings the running or stopped process specified by the pid to the foreground.
@@ -349,7 +349,7 @@ The pid can be any of the pids listed using the command `activities`.
 ---
 
 ## 15. 👶  Neonate:
-<span style="color:#FF00FF;"><strong>Witness the birth of new processes</strong></span> <span style="color:#00CED1;"><strong>in the cosmic nursery!</strong></span>
+### <span style="color:#FF00FF;"><strong>Witness the birth of new processes</strong></span> <span style="color:#00CED1;"><strong>in the cosmic nursery!</strong></span>
 
 
 ```
@@ -364,7 +364,7 @@ neonate -n 4
 ---
 
 ## 16. 📚 iMan: Intergalactic Manual
-<span style="color:#8B008B;"><strong>Access the wisdom of the universe</strong></span> <span style="color:#20B2AA;"><strong>through the cosmic library!</strong></span>
+### <span style="color:#8B008B;"><strong>Access the wisdom of the universe</strong></span> <span style="color:#20B2AA;"><strong>through the cosmic library!</strong></span>
 
 
 ```
@@ -378,8 +378,9 @@ iMan grep
     - <img src="images/iman.png" alt="Prompt" height="400" widht="200">
 ---
 
-## 17. 🌑 Finish 
-<span style="color:#FFFF00;"><strong>Conclude your cosmic journey</strong></span> <span style="color:#00FF00;"><strong>and return to Earth!</strong></span>
+## 17. 🌑 Finish  
+
+### 🟡 **Conclude your cosmic journey** 🟢 **and return to Earth!**
 
 
 
