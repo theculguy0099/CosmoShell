@@ -1,4 +1,4 @@
-# 🚀 CosmoShell: Your Gateway to the Command Universe
+# 🚀 CosmoShell: The Prompt of Your Command Universe"
 
 ### Welcome to CosmoShell, where the command line meets the cosmos! 🌌
 
@@ -248,7 +248,7 @@ executable Path: /usr/bin/sleep
 - Both input and output redirections can be used on a single command
 - For Example:
     ```
-    cat < input.txt > output.txt
+    cat < kt.txt > new.txt
     ```
 ---
 ## 10. 🎛️ Piping
@@ -261,14 +261,14 @@ executable Path: /usr/bin/sleep
 - Piping can be used alongside input and output redirections
 - For Example:
     ```
-    cat < in.txt | wc -l > lines.txt
+    cat < new.txt | wc -l > kt.txt
     ```
 
 ### Fun Fact : 
 -   In case of a conflict between taking input/output from the pipe or through a redirection, the `redirection is given higher preference`.
 - For Example:
     ```
-    cat in.txt | sort > out.txt | wc -l
+    cat new.txt | sort > kt.txt | wc -l
     ```
     - This will output `0` since the sort command redirects the output to out.txt and not the pipe
 
