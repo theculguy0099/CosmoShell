@@ -351,7 +351,6 @@ The pid can be any of the pids listed using the command `activities`.
 ## 15. 👶  Neonate:
 ### <span style="color:#FF00FF;"><strong>Witness the birth of new processes</strong></span> <span style="color:#00CED1;"><strong>in the cosmic nursery!</strong></span>
 
-
 ```
 neonate -n 4
 ```
@@ -366,7 +365,6 @@ neonate -n 4
 ## 16. 📚 iMan: Intergalactic Manual
 ### <span style="color:#8B008B;"><strong>Access the wisdom of the universe</strong></span> <span style="color:#20B2AA;"><strong>through the cosmic library!</strong></span>
 
-
 ```
 iMan sleep
 iMan ls
@@ -378,11 +376,8 @@ iMan grep
     - <img src="images/iman.png" alt="Prompt" height="400" widht="200">
 ---
 
-## 17. 🌑 Finish  
-
-### 🟡 **Conclude your cosmic journey** 🟢 **and return to Earth!**
-
-
+## 17. 🌑 Finish 
+### <span style="color:#FFFF00;"><strong>Conclude your cosmic journey</strong></span> <span style="color:#00FF00;"><strong>and return to Earth!</strong></span>
 
 - Exits out of the shell
 ```
